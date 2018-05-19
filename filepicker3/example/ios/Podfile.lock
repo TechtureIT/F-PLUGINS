@@ -1,0 +1,22 @@
+PODS:
+  - filepicker3 (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - filepicker3 (from `Pods/.symlinks/plugins/filepicker3/ios`)
+  - Flutter (from `Pods/.symlinks/flutter/ios`)
+
+EXTERNAL SOURCES:
+  filepicker3:
+    :path: Pods/.symlinks/plugins/filepicker3/ios
+  Flutter:
+    :path: Pods/.symlinks/flutter/ios
+
+SPEC CHECKSUMS:
+  filepicker3: 5bb2e1c532efcf2245766e910570591440c4df05
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+
+PODFILE CHECKSUM: 13dcf421f4da2e937a57e8ba760ed880beae536f
+
+COCOAPODS: 1.4.0
